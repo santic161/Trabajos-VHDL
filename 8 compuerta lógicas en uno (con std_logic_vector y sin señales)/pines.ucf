@@ -1,0 +1,13 @@
+NET "ll[0]" LOC = "N3";
+NET "ll[1]" LOC = "E2";
+NET "ll[2]" LOC = "F3";
+NET "ll[3]" LOC = "G3";
+NET "ll[4]" LOC = "B4";
+NET "ll[5]" LOC = "K3";
+NET "ll[6]" LOC = "L3";
+NET "ll[7]" LOC = "P11";
+
+NET "a" LOC = "A7";
+NET "b" LOC = "M4";
+
+NET "z" LOC = "M5";

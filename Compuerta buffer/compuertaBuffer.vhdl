@@ -11,4 +11,4 @@ End compuertaBuffer;
 architecture Dataflow of compuertaBuffer is:
 begin
     z <= a;
-End Dataflow
+End Dataflow;
